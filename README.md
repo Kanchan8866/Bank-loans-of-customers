@@ -14,25 +14,28 @@ The Bank Analytics Project delves into two pivotal datasets, Finance 1 and Finan
 - Evaluate the total amount of principal repaid by borrowers.
 #### 5. Average DTI Rate (Debt-to-Income):
 - Assess the level of indebtedness relative to borrower income.
-#### 6. Fully Paid Loan Amount:
-- Understand the success rate of loan repayments.
-#### 7. Average Revolving Balance:
-- Understand the average credit card balances of borrowers.
-#### 8. Number of Open Accounts:
-- Provide an overview of ongoing financial activity.
-#### 9. Loan Amount-wise Loan Status:
+#### 6. Loan Amount-wise Loan Status:
  - Identify how loan status varies with different loan amounts.
-#### 10. Recovery Rate Analysis:
+#### 7. Recovery Rate Analysis:
  - Assess the effectiveness of recovery efforts and the financial health of the recovery process.
- #### 11. Purpose-wise Loan Amount:
+#### 8. Purpose-wise Loan Amount:
 - Identify the distribution of funds across various loan purposes, revealing the most prevalent reasons for borrowing.
- #### 12. Grade and Term-wise Loan Amount:
+#### 9. Grade and Term-wise Loan Amount:
 - Identify patterns in loan amounts based on credit grading and the length of the loan term, aiding risk assessment.
- #### 13. State-wise Loan Amount:
+#### 10. State-wise Loan Amount:
 - Understand regional variations in loan amounts, assisting in targeted regional strategies.
- #### 14. Verification Status-wise Loan Amount:
+#### 11. Verification Status-wise Loan Amount:
 - Understand the distribution of funds based on the verification process, revealing trends in verified and non-verified loans.
- #### 15. Home Ownership-wise Funded Amount:
+
+![Bank Analytics Power Bi 1](https://github.com/Kanchan8866/Bank-loans-of-customers/assets/159992336/3c8120b9-3a75-4653-ad5f-b8c1c4a4b819)
+
+#### 12. Fully Paid Loan Amount:
+- Understand the success rate of loan repayments.
+#### 13. Average Revolving Balance:
+- Understand the average credit card balances of borrowers.
+#### 14. Number of Open Accounts:
+- Provide an overview of ongoing financial activity.
+#### 15. Home Ownership-wise Funded Amount:
 - Understand the funding patterns with respect to home ownership.
  #### 16. Employment Length-wise Loan Amount:
 - Identify loan distribution patterns across employment lengths, aiding in assessing stability.
@@ -43,6 +46,7 @@ The Bank Analytics Project delves into two pivotal datasets, Finance 1 and Finan
 #### 19. State-wise Summary:
 - Identify regional trends and disparities, aiding in regional decision-making.
 
+![Bank Analytics Power Bi 2](https://github.com/Kanchan8866/Bank-loans-of-customers/assets/159992336/ad113931-c5c9-46fc-a661-8c9bac0721e3)
 
   ## Key Insights
 1. The portfolio comprises 39,720 open accounts, with a total loan amount of $446 million and an average interest rate of 12.02%. Borrowers exhibit an average annual income of $68,970, resulting in a total principal received of $388.96 million. The average Debt-to-Income (DTI) ratio is 13.32%.
